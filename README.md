@@ -1,5 +1,5 @@
 # File-Encryptor
-File Encryptor is another mac based app that encrypt ANY file type. The program is able to encrypt the file through one of three 
+File Encryptor is another mac based app that can encrypt ANY file type. The program is able to encrypt the file through one of three 
 ciphers, all block ciphers. The three block cipher modes are: Electronic Codebook, Cipher Block Chaining, and Counter. These 
 ciphers operate directly on the file's memory contents, meaning the bytes themselves are encrypted. Thus, this program will 
 completely transform the file, making it unreadable once encrypted.
