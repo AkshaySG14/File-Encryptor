@@ -5,8 +5,8 @@ ciphers operate directly on the file's memory contents, meaning the bytes themse
 completely transform the file, making it unreadable once encrypted.
 
 The application was created in Xcode, and written in C++ as a way to familiarize myself with digital cryptology. 
-Though written completely in C++, the code was built upon the SFML framework, which provided functions 
-necessary for the code to work. Regardless, anyone versed in C++ would be able to easily examine the code.
+Though written completely in C++, the code is built on the SFML framework, which provided the
+necessary functions for the code to work. Regardless, anyone versed in C++ would be able to easily examine the code.
 
 To launch the application, a mac with the latest OS is required. 
 The application itself can be launched immediately once downloaded. 
