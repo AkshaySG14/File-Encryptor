@@ -17,4 +17,7 @@ Note that the full file path of the document should be entered. For example: /Us
 Note that the program WILL make the file unreadable once encrypted, meaning the user cannot access it properly. However, once 
 decrypted, the file will be interactable with as normal.
 
-Created by Akshay Subramaniam.
+Credits: Thanks to Jovanny Lemonad, Bernd Montag, sugargliderz, and Volker Busse for the various fonts used in the game.
+
+Created by AKSHAY SUBRAMANIAM
+
