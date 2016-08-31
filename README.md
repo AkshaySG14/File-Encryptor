@@ -19,5 +19,4 @@ decrypted, the file will be interactable with as normal.
 
 Credits: Thanks to Jovanny Lemonad, Bernd Montag, sugargliderz, and Volker Busse for the various fonts used in the game.
 
-Created by AKSHAY SUBRAMANIAM
-
+MADE BY AKSHAY SUBRAMANIAM
