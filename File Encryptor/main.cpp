@@ -25,7 +25,7 @@
 int main(int, char const**)
 {
     // Create the main window
-    sf::RenderWindow *window = new sf::RenderWindow(sf::VideoMode(800, 600), "Color Synthesizer", sf::Style::Close);
+    sf::RenderWindow *window = new sf::RenderWindow(sf::VideoMode(800, 600), "File Encryptor", sf::Style::Close);
     
     RunManager runManager(window);
     

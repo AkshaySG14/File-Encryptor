@@ -12,8 +12,6 @@
 #include <stdio.h>
 #include <SFML/Audio.hpp>
 #include <SFML/Graphics.hpp>
-#include "Encryptor.h"
-#include "Decryptor.h"
 #include "EncryptionHandler.h"
 #include "DecryptionHandler.h"
 #include "ResourcePath.hpp"
